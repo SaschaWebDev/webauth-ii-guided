@@ -2,6 +2,10 @@
 
 Guided project for **Web Auth II** Module.
 
+## Author
+
+Sascha Majewsky
+
 ## Prerequisites
 
 - [SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download) installed.
